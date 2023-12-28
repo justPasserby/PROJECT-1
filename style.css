@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 100vw;
+  margin: auto;
+}
+
+.visionmission {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+.vision header {
+  color: #244030;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 24px;
+}
+
+.mission header {
+  color: #244030;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 24px;
+}
+
+.visionmission p {
+  margin-bottom: 24px;
+  color: #000;
+
+  font-family: Plus Jakarta Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 81.5px;
+}
+
+.whychoose {
+  display: flex;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  gap: 30px;
+  justify-content: center;
+  color: rgba(36, 64, 48, 0.6);
+
+  font-family: Plus Jakarta Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.header {
+  color: #244030;
+  font-family: Plus Jakarta Sans;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 24px;
+}
+
+.header1 {
+  font-family: Plus Jakarta Sans;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: #e0a423;
+
+}
+
+.tic1 {
+  display: flex;
+  color: #000;
+ 
+  font-family: Plus Jakarta Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+
+.tic2 {
+  display: flex;
+  color: #000;
+  gap: 24px;
+
+  font-family: Plus Jakarta Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 16px;
+
+}
+
+.tic3 {
+  display: flex;
+  color: #000;
+  gap: 24px;
+
+  font-family: Plus Jakarta Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.color{
+    width: 34px;
+height: 34px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E0A423;
+display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
